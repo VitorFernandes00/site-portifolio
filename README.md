@@ -1,6 +1,6 @@
-# 🧑‍💻 Portfólio Pessoal
+# 🧑‍💻 Portfólio 
 
-Este é um site de portfólio pessoal desenvolvido com **HTML5** e **CSS3**, criado como parte dos estudos práticos do curso Sujeito Programador.
+Este é um site de portfólio desenvolvido com **HTML5** e **CSS3**, criado como parte dos estudos práticos do curso Sujeito Programador.
 
 ## 📄 Sobre o projeto
 
